@@ -1,0 +1,212 @@
+18:19:01.891 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:19:02.450 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********homepage click*******
+18:19:02.452 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****click on registration **************
+18:20:05.717 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:20:06.337 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********homepage click*******
+18:20:06.340 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****click on registration **************
+18:21:36.726 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:21:37.310 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********homepage click*******
+18:21:37.312 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****click on registration **************
+18:24:29.810 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:24:30.373 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********homepage click*******
+18:24:30.375 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****click on registration **************
+18:26:07.423 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:26:09.331 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********homepage click*******
+18:26:09.334 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****click on registration **************
+18:42:34.715 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:42:34.890 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+18:42:35.368 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+18:42:35.371 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+18:42:36.922 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+18:45:26.705 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:45:26.833 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+18:45:27.409 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+18:45:27.412 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+18:45:28.863 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+18:54:20.799 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:54:20.953 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+18:54:21.327 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+18:54:21.331 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+18:54:22.708 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+18:54:22.756 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+18:56:58.035 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:56:58.169 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+18:56:58.563 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+18:56:58.565 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+18:56:59.941 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+18:56:59.976 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:12:56.268 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:12:56.395 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:12:56.945 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:12:56.947 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:12:58.433 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:12:58.466 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:24:13.052 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:24:13.265 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:24:13.755 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:24:13.758 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:24:15.664 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:24:15.723 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:28:16.870 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:28:17.103 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:28:17.509 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:28:17.509 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:28:19.844 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:28:19.901 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:30:12.389 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:30:12.569 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:30:13.328 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:30:13.332 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:30:15.589 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:30:15.641 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:30:44.184 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:30:44.393 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:30:44.863 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:30:44.865 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:30:46.891 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:30:46.944 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:31:36.565 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:31:36.749 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:31:37.207 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:31:37.211 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:31:39.188 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:31:39.241 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:32:54.434 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:32:54.721 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:32:55.255 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:32:55.260 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:32:57.415 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:32:57.477 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+19:32:58.496 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+19:32:58.702 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+19:32:59.116 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+19:32:59.116 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+19:32:59.634 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+19:33:00.404 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+22:56:08.611 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+22:56:08.826 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+22:56:09.728 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+22:56:09.731 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+22:56:12.073 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+22:56:12.120 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+22:56:12.617 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+22:56:12.782 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+22:56:13.763 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+22:56:13.764 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+22:56:14.293 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+22:56:15.666 [TestNG-tests-2] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+23:52:49.338 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+23:52:49.589 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+23:52:50.551 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+23:52:50.554 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+23:52:52.907 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+23:52:52.966 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+00:31:49.788 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+00:31:50.016 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+00:31:52.017 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+00:31:52.026 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+00:31:54.391 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+00:31:54.447 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+12:30:35.721 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+12:30:35.970 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+12:30:36.876 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+12:30:36.882 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+12:30:39.694 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+12:30:39.758 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:09:37.318 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:09:37.536 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:09:40.544 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:09:40.552 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:09:44.391 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:09:44.455 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:23:08.837 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:23:09.073 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:23:10.470 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:23:10.478 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:23:12.851 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:23:12.912 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:24:54.061 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:24:54.292 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:24:55.129 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:24:55.136 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:24:57.889 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:24:57.948 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:34:49.186 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:34:49.374 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:34:50.159 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:34:50.164 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:34:52.945 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:34:52.995 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:35:08.160 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:35:08.322 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:35:09.164 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:35:09.164 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:35:11.278 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:35:11.318 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:36:40.921 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:36:41.389 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:36:43.497 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:36:43.503 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:36:45.695 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:36:45.757 [TestNG-tests-1] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:36:48.456 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+15:36:48.655 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+15:36:51.047 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+15:36:51.050 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+15:36:53.740 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+15:36:53.789 [TestNG-tests-3] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+16:08:51.481 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+16:08:51.620 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+16:08:52.475 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+16:08:52.478 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+16:08:55.085 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+16:08:55.118 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+16:11:14.336 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+16:11:14.475 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+16:11:15.185 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+16:11:15.187 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+16:11:16.939 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+16:11:16.970 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+16:19:30.672 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+16:19:30.793 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+16:19:32.180 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+16:19:32.182 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+16:19:33.973 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+16:19:34.007 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+16:24:52.392 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+16:24:52.528 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+16:24:53.235 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+16:24:53.238 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+16:24:55.592 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+16:24:55.623 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+17:02:24.065 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+17:02:24.294 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+17:02:25.052 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+17:02:25.056 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+17:02:26.917 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+17:02:26.955 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+17:41:21.714 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+17:41:29.713 [main] INFO  testCases.TC_002_LoginTest - ************Finishes TC_002_LoginTest***********
+17:43:15.533 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+17:43:22.815 [main] INFO  testCases.TC_002_LoginTest - ************Finishes TC_002_LoginTest***********
+18:09:03.794 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+18:09:04.028 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+18:09:06.253 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+18:09:06.256 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+18:09:08.773 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+18:09:08.844 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+18:09:44.983 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+18:09:52.516 [main] INFO  testCases.TC_002_LoginTest - ************Finishes TC_002_LoginTest***********
+19:13:17.971 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+19:13:26.625 [main] INFO  testCases.TC_002_LoginTest - ************Finishes TC_002_LoginTest***********
+12:00:08.135 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********************TC0011_AccountRegistrationTest**********
+12:00:08.333 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on my account link
+12:00:09.083 [main] INFO  testCases.TC0011_AccountRegistrationTest - click on reg Page
+12:00:09.091 [main] INFO  testCases.TC0011_AccountRegistrationTest - *****client details **************
+12:00:09.689 [main] INFO  testCases.TC0011_AccountRegistrationTest - *********validate msg********
+12:00:10.799 [main] INFO  testCases.TC0011_AccountRegistrationTest - .......finish TC001_AccountRegistrationTest.....
+15:29:31.721 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dheeraj\eclipse-workspace\Ecommerce\Master.xml"
+15:29:42.846 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+15:30:32.672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dheeraj\eclipse-workspace\Ecommerce\Master.xml"
+15:30:37.722 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTest ************
+15:30:44.679 [main] INFO  testCases.TC_002_LoginTest - ************Finishes TC_002_LoginTest***********

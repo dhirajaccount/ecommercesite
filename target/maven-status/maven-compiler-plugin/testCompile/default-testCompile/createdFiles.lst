@@ -1,0 +1,15 @@
+pageObjects\SearchProducts.class
+pageObjects\TitleCheck.class
+pageObjects\HomePage.class
+pageObjects\MyAccountPage.class
+testBase\BaseClass.class
+testBase\BaseClass_normal.class
+pageObjects\AccountRegistrationPage.class
+testCases\TC0011_AccountRegistrationTest.class
+testCases\TC_003_Title.class
+testCases\TC001_AccountRegistrationTest.class
+pageObjects\LoginPage.class
+testCases\TC_004_SearchProduct.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+testCases\TC_002_LoginTest.class
